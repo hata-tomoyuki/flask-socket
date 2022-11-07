@@ -2,7 +2,6 @@ bidict==0.21.4
 certifi==2022.9.24
 charset-normalizer==2.0.12
 click==8.0.4
-dataclasses==0.8
 dnspython==2.2.1
 eventlet==0.33.1
 Flask==2.0.3
